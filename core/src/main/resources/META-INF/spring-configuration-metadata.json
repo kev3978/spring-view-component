@@ -11,6 +11,11 @@
       "name": "spring.view-component.local-development",
       "type": "java.lang.Boolean",
       "description": "If set to true loads templates from the filesystem allowing for hot reload"
+    },
+    {
+      "name": "spring.view-component.view-component-root",
+      "type": "java.lang.String",
+      "description": "The root directory to scan for view components"
     }
   ],
   "hints": []
